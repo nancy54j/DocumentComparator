@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/document compare.iml" filepath="$PROJECT_DIR$/.idea/modules/document compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/document_compare.iml" filepath="$PROJECT_DIR$/.idea/modules/document_compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/document_compare_main.iml" filepath="$PROJECT_DIR$/.idea/modules/document_compare_main.iml" group="document_compare" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/document_compare_test.iml" filepath="$PROJECT_DIR$/.idea/modules/document_compare_test.iml" group="document_compare" />
+    </modules>
+  </component>
+</project>
