@@ -24,6 +24,7 @@ public class GUI extends JFrame {
     public GUI(){
         createView();
         setTitle("DOCUMENT COMPARATOR");
+        
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setSize(new Dimension(500,300));
